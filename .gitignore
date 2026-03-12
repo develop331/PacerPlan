@@ -5,3 +5,8 @@
 # React Router
 /.react-router/
 /build/
+
+# clerk configuration (can include secrets)
+/.clerk/
+
+.env.local
